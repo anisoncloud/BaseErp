@@ -1,0 +1,20 @@
+<Solution>
+  <Folder Name="/BaseErp.Core/" />
+  <Folder Name="/BaseErp.Modules/" />
+  <Folder Name="/BaseErp.Modules/Accounting/" />
+  <Folder Name="/BaseErp.Modules/CRM/" />
+  <Folder Name="/BaseErp.Modules/HRM/">
+    <Project Path="HRM.Domain/HRM.Domain.csproj" />
+    <Project Path="HRM.Infrastructure/HRM.Infrastructure.csproj" />
+    <Project Path="HRM.Presentation/HRM.Presentation.csproj" />
+    <Project Path="HRML.Application/HRML.Application.csproj" />
+  </Folder>
+  <Folder Name="/BaseErp.Modules/Inventory/" />
+  <Folder Name="/BaseErp.Modules/Payroll/" />
+  <Folder Name="/BaseErp.Modules/Production/" />
+  <Folder Name="/BaseErp.Modules/Purchase/" />
+  <Folder Name="/BaseErp.Modules/Sales/" />
+  <Folder Name="/BaseErp.Shared/" />
+  <Folder Name="/BaseErp.Tests/" />
+  <Project Path="BaseErp.Web/BaseErp.Web.csproj" />
+</Solution>
