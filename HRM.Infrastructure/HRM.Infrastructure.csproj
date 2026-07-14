@@ -6,4 +6,13 @@
     <Nullable>enable</Nullable>
   </PropertyGroup>
 
+  <ItemGroup>
+    <Folder Include="Configurations\" />
+    <Folder Include="Data\" />
+    <Folder Include="Identity\" />
+    <Folder Include="Email\" />
+    <Folder Include="FileStorage\" />
+    <Folder Include="Logging\" />
+  </ItemGroup>
+
 </Project>
