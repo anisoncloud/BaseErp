@@ -4,7 +4,7 @@ using System.Text;
 
 namespace HRM.Domain.Entities
 {
-    internal class Department
+    public class Department
     {
     }
 }
