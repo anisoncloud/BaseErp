@@ -1,5 +1,4 @@
 <Solution>
-  <Folder Name="/BaseErp.Core/" />
   <Folder Name="/BaseErp.Modules/" />
   <Folder Name="/BaseErp.Modules/Accounting/" />
   <Folder Name="/BaseErp.Modules/CRM/" />
@@ -14,7 +13,9 @@
   <Folder Name="/BaseErp.Modules/Production/" />
   <Folder Name="/BaseErp.Modules/Purchase/" />
   <Folder Name="/BaseErp.Modules/Sales/" />
-  <Folder Name="/BaseErp.Shared/" />
   <Folder Name="/BaseErp.Tests/" />
+  <Project Path="BaseErp.Database/BaseErp.Database.csproj" Id="843ea082-a28a-47dc-96f3-2fcec41882a7" />
+  <Project Path="BaseErp.Identity/BaseErp.Identity.csproj" Id="3d2941ca-3c39-40c6-a146-3335e7002e74" />
+  <Project Path="BaseErp.Shared/BaseErp.Shared.csproj" Id="b136f470-fb49-420f-a9bf-f2430f92f915" />
   <Project Path="BaseErp.Web/BaseErp.Web.csproj" />
 </Solution>

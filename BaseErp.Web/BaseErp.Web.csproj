@@ -7,6 +7,12 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <PackageReference Include="Microsoft.AspNetCore.Identity.UI" Version="10.0.10" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="10.0.10" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BaseErp.Identity\BaseErp.Identity.csproj" />
     <ProjectReference Include="..\HRM.Presentation\HRM.Presentation.csproj" />
   </ItemGroup>
 
