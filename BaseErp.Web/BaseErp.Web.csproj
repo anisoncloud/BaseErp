@@ -12,8 +12,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\BaseErp.Identity\BaseErp.Identity.csproj" />
-    <ProjectReference Include="..\HRM.Presentation\HRM.Presentation.csproj" />
+    <ProjectReference Include="..\BaseErp.Database\BaseErp.Database.csproj" />
   </ItemGroup>
 
 </Project>
